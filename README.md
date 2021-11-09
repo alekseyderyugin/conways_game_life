@@ -1,2 +1,8 @@
-# conways_game_life
-Conway's Game "Life" - javascript interpretation
+# Conway's Game "Life
+Javascript interpretation
+
+### Features
+
+* custom cell selecting with hightlighting
+* random generation selection
+* generation control
