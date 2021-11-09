@@ -1,4 +1,4 @@
-# Conway's Game "Life
+# Conway's Game "Life"
 Javascript interpretation
 
 ### Features
