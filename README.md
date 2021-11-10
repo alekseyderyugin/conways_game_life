@@ -3,6 +3,6 @@ Javascript interpretation
 
 ### Features
 
-* custom cell selecting with hightlighting
+* custom cell selecting with highlighting
 * random generation selection
 * generation control
